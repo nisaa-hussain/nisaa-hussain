@@ -6,23 +6,23 @@
 
 Repositry includes code for following data science projects:
 
-1. Simple Stocks App - Basic data-driven web application showing the stock closing price and volume of Google - Streamlit link
+1. Simple Stocks App - Basic data-driven web application showing the stock closing price and volume of Google - 🔗streamlit
 
-2. EDA Basketball - Using basketballreference.com and web scraping techniques to create a simple data exploratory analysis and a heat map - Streamlit link
+2. EDA Basketball - Using basketballreference.com and web scraping techniques to create a simple data exploratory analysis and a heat map - 🔗streamlit
 
-3. EDA Football - Exploring NFL players and showcasing their data - Streamlit link
+3. EDA Football - Exploring NFL players and showcasing their data - 🔗streamlit
 
-4. Simple Bioinformatics DNA Analysis - Counts the nucleotide composition of query DNA - Streamlit link
+4. Simple Bioinformatics DNA Analysis - Counts the nucleotide composition of query DNA - 🔗streamlit
 
-5. EDA SP500 Stock Prices - Web-scraping S&P500 stock prices using python - Streamlit link
+5. EDA SP500 Stock Prices - Web-scraping S&P500 stock prices using python - 🔗streamlit
 
-6. EDA Cryptocurrencies - Retrieving the prices of cryptocurrency from the top 100 in CoinMarketCap - Streamlit link
+6. EDA Cryptocurrencies - Retrieving the prices of cryptocurrency from the top 100 in CoinMarketCap - 🔗streamlit
 
-7. Regression Bioinformatics Solubility - Molecular solubility prediction model using machine learning - Streamlit link
+7. Regression Bioinformatics Solubility - Molecular solubility prediction model using machine learning - 🔗streamlit
 
-8. Housing in Boston Classification - Using machine learning to predict house prices in Boston - Streamlit link
+8. Housing in Boston Classification - Using machine learning to predict house prices in Boston - 🔗streamlit
 
-9. Penguins Classification App - Using the palmer penguins dataset to make classifcation application - Streamlit link
+9. Penguins Classification App - Using the palmer penguins dataset to make classifcation application - 🔗streamlit
 
 
 
