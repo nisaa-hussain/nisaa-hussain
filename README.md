@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nisaa Hussain
 - 👀 I’m interested in Data Science & AI
 - 🌱 I’m currently learning NLP, Deep Learning, and Machine Learning to leverage data science for impact & real-world applications.
-- 💞️ I’m looking to collaborate on leveraging AI for social impact and shaping its trajectory.
+- 💞️ I’m looking to collaborate on leveraging AI for social impact and contributing to its trajectory.
 - 📫 Reach me at nisaaspace@gmail.com
 
 Repositry includes code for following data science projects:
